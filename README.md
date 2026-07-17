@@ -382,11 +382,10 @@ If you build on this work, please cite (fields to be finalized on release):
 
 ## Contact
 
-**Abhishek `<Surname>`** — M.Tech, Delhi Technological University
+**Abhishek Kumar** — M.Tech, Delhi Technological University
 Research interests: neuro-symbolic verification · certified selective prediction · trustworthy & guaranteed-safe AI
 
-- 📧 `<email>`
-- 🔗 `<website / Google Scholar / LinkedIn>`
+- 📧 `abhishekvicky12345@gmail.com`
 
 *This repository accompanies an in-progress research project. Results labeled "banked" are reproducible from the cached Stage-1 artifacts via the Stage-2 pipeline; results labeled "superseded" or "in progress" are marked as such throughout.*
 
