@@ -371,10 +371,10 @@ If you build on this work, please cite (fields to be finalized on release):
 @misc{certified_selective_reasoning_2026,
   title  = {Certified Selective Reasoning: Decorrelated Neuro-Symbolic
             Verification with Distribution-Free Safety Guarantees},
-  author = {Abhishek <Surname> and collaborators},
+  author = {Abhishek kumar and collaborators},
   year   = {2026},
   note   = {Manuscript in preparation},
-  howpublished = {\url{https://github.com/<your-username>/<repo>}}
+  howpublished = {\url{https://github.com/abhishekvicky12345/Provably-Sound-Neuro-Symbolic-Verification-of-Large-Language-Model-Reasoning}}
 }
 ```
 
