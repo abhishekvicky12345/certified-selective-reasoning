@@ -676,14 +676,12 @@ Under submission, MATH-AI @ NeurIPS 2026. A preprint will be posted to arXiv aro
   title  = {Certified Selective Reasoning: Decorrelated Neuro-Symbolic
             Verification with Distribution-Free Safety Guarantees},
   year   = {2026},
-  note   = {Preprint. Code: https://github.com/[ADD HANDLE]/[ADD REPO]}
 }
 ```
 
 **Related work this builds on:** Ganguly et al., *Grammars of Formal Uncertainty* (NeurIPS 2025) · Feng et al., *VeriCoT* · Olausson et al., *LINC* · Ye et al., *SatLM* · *Logic-LM* · Angelopoulos et al. on conformal risk control · Mirzadeh et al., *GSM-Symbolic* · Knight & Leveson (1986) on the failure of independence assumptions in N-version programming · Damani & Puri, *RLCR*.
 
-**Contact:** [ADD EMAIL]
-**Licence:** [ADD LICENCE — MIT or Apache-2.0 suggested]
+**Contact:** abhishekvicky12345@gmail.com
 
 **Issues and corrections are genuinely welcome.** If you think a number here is wrong, please open an issue — that is exactly the kind of help this project needs.
 
