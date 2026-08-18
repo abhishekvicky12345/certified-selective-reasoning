@@ -667,14 +667,14 @@ Listing this because a negative result is only worth anything if the process beh
 
 ## 16. Citing / contact / licence
 
-**Paper:** *Certified Selective Reasoning: Decorrelated Neuro-Symbolic Verification with Distribution-Free Safety Guarantees*
+**Paper:** *Certified Selective Reasoning: Decorrelated Neuro-Symbolic Verification with Distribution-Free Guarantees*
 Under submission, MATH-AI @ NeurIPS 2026. A preprint will be posted to arXiv around October 2026.
 
 ```bibtex
 @misc{certified-selective-reasoning-2026,
   author = {Abhishek},
   title  = {Certified Selective Reasoning: Decorrelated Neuro-Symbolic
-            Verification with Distribution-Free Safety Guarantees},
+            Verification with Distribution-Free Guarantees},
   year   = {2026},
 }
 ```
