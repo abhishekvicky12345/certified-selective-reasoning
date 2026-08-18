@@ -8,15 +8,6 @@ Short version of what we found: **the idea we started with did not work.** We sa
 
 ---
 
-> ### ⚠️ Repo status (17 August 2026)
->
-> Right now this repo has **only this README**. The code and result files are being cleaned up and uploaded before the paper deadline (25 September 2026).
->
-> Everything described below has already been **run and measured**. Nothing here is a plan or a guess. But if you are here to run the code today, it is not up yet. Please check back, or open an issue and I will tell you when it lands.
->
-> *(Delete this box once the code is pushed.)*
-
----
 
 ## Table of contents
 
