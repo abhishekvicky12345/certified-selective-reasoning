@@ -9,12 +9,14 @@ Each file was written before the run it registers. Outcomes, including every fal
 | P4, GSM-Symbolic p2 | `PREREG_weak_to_strong_gsm_symbolic__gsm_symbolic_p2.md` | 2026-08-11 03:30:50 IST | `8e79c462829df5f2…` | The P4 text for p2 |
 | P4, GSM-Symbolic p1 | `PREREG_weak_to_strong_gsm_symbolic.md` | 2026-08-12 02:10:41 IST | `733fc6dab4b15e7c…` | The P4 text for p1 |
 | P7 | `PREREG_verifier_ceiling.md` | 2026-10-23 | `f6dfbdd8f03a7677…` (full hash in the `.sha256` file) | Verifier-ceiling analyses on existing artifacts |
+| P7 amendment 1 | `PREREG_verifier_ceiling_amendment1.md` | 2026-10-25; A5 added 2026-11-03 | `bb2098d54b277199…` (full hash in the `.sha256` file) | G0.3 becomes a reported diagnostic; H5 becomes descriptive; H3a is the only primary test, at one-sided 0.025; when Phase 2 starts; GSM8K-Platinum check (S8); certified-correct faithfulness sample (S9) |
 
 **Timestamps.**
 - The P4 files were written to dated files outside the pipeline's regenerable output folder and were not under version control.
 - So their written-at times are self-reported. Each file's filesystem modification time matches the time it states.
 - The P4 files were committed here on 24 Oct 2026, after their runs.
 - P7 was committed here before its analysis ran: commit 7a7856f, 23 Oct 2026.
+- P7 amendment 1 was committed after Phase 0/1, and before any Phase 2 packet, LLM first pass or faithfulness verdict existed and before the A5 sample was drawn: commit 8d7fa9a, 3 Nov 2026.
 
 **Deviations from P4**, disclosed in the paper:
 - No registration names a gating rule; the headline rule, k≥3 over t1/t2/t3/t6, was chosen after the runs.
